@@ -10,6 +10,7 @@ This 100 days of code series will help you learn python from starting to the end
 ## What is Python?
 
 -   Python is a dynamically typed, general purpose programming language that supports an object-oriented programming approach as well as a functional programming approach.
+-   dynamically typed : means 1) no need to decalre variable types, 2) type flexibility etc.
 -   Python is an interpreted and a high-level programming language.
 -   It was created by Guido Van Rossum in 1989. 
 

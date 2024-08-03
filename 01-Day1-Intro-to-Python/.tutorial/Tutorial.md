@@ -18,6 +18,7 @@ This 100 days of code series will help you learn python from starting to the end
 
 -   Python is simple and easy to understand.
 -   It is Interpreted and platform-independent which makes debugging very easy.
+-   Python being platform-independent means that Python programs can run on various operating systems (such as Windows, macOS, and Linux) without modification. 
 -   Python is an open-source programming language.
 -   Python provides very big library support. Some of the popular libraries include NumPy, Tensorflow, Selenium, OpenCV, etc.
 -   It is possible to integrate other programming languages within python.
